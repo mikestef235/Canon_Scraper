@@ -8,3 +8,5 @@ This repo contains jupyter notebook that...
 3. Stores/updates current listings
 4. Adds new listings
 5. Stores/updates sold listings
+
+Note: Data stored in the 'Data_Tables' folder is provided for example purposes only and is not reflective of the data accumulated.
